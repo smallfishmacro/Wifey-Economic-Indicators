@@ -51,8 +51,8 @@ The Indicators covered are;
 
 ********************************************************************************************************************************************
 
-Please note I am a normie in Python. Self thaught as a hobby for the past 2 years or so with 0 programming experience before that...
+Please note I am perfectly aware I am normie in Python.
 
-Happy to receive feedback, tips, code clean-up and help from more seasonned programers!
+Happy to receive feedback, tips, code clean-up and help from more seasoned programers!
 
-Hoping to help.
+Just hoping to help.
