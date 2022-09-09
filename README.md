@@ -1,5 +1,5 @@
 ***
-# Wifey Macro Indicators
+# Wifey Economic Indicators
 ***
 
 
