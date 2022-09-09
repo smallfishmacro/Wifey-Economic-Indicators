@@ -53,6 +53,6 @@ The Indicators covered are;
 
 Please note I am perfectly aware I am normie in Python.
 
-Happy to receive feedback, tips, code clean-up and help from more seasoned programers!
+Happy to receive feedback, tips, code clean-up and help from more seasoned programmers!
 
 Just hoping to help.
