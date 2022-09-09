@@ -47,3 +47,12 @@ The Indicators covered are;
 * Oil Inventories
 * Tankan Survey
 * TIC Data
+
+
+********************************************************************************************************************************************
+
+Please note I am a normie in Python. Self thaught as a hobby for the past 2 years or so with 0 programming experience before that...
+
+Happy to receive feedback, tips, code clean-up and help from more seasonned programers!
+
+Hoping to help.
